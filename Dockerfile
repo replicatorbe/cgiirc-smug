@@ -1,5 +1,5 @@
 FROM debian:jessie
-MAINTAINER Jérôme Fafchamps, smug@fafchamps.be
+MAINTAINER Jérôme Fafchamps <smug@smug.fr>
 
 RUN apt-get update && apt-get upgrade -y
 RUN apt-get install -y perl build-essential apache2 wget zip gcc
