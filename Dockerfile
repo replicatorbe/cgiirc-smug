@@ -1,4 +1,4 @@
-FROM debian:wheezy
+FROM debian:jessie
 MAINTAINER Jérôme Fafchamps, smug@fafchamps.be
 
 RUN apt-get update && apt-get upgrade -y
