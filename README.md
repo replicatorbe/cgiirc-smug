@@ -1,0 +1,4 @@
+# cgiirc-smug
+
+
+CGI-INSTALLATION
